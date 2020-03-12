@@ -1,0 +1,454 @@
+{
+    "brands": {
+        "138COM": {
+            "name": "申博138 - 扑克",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "5d759fa4-492e-443f-b41b-c0b645a05eef",
+                "live": "79b9edb3-70ed-4cb1-916e-83f542bd93d5"
+            },
+            "isLive": true
+        },
+        "138POKER": {
+            "name": "138 Poker",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "b83604bb-88e3-4288-abad-1a0266d3e544",
+                "live": "b783c071-240b-45c4-b455-ece028a3d899"
+            },
+            "isLive": true
+        },
+        "138POKERCOM": {
+            "name": "138Pokercom",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "fcb22efa-cc8c-4555-a0dd-5b952b4ecef7",
+                "live": "0a054449-0978-4c0e-9023-7a9dcbbac351"
+            },
+            "isLive": true
+        },
+        "7XL": {
+            "name": "7XL",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "d1b10766-4c88-4b68-af2d-836ae009b447",
+                "live": "11f13f38-fec9-4634-907b-23fe09b700f5"
+            },
+            "isLive": true
+        },
+        "7XLDEV": {
+            "name": "7XLDEV",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "f970d528-1c03-4ba3-8fec-bbbf7516f27b",
+                "live": "3e246e7c-76a9-4ac7-a20c-e0961391754a"
+            },
+            "isLive": false
+        },
+        "ALLNEWPOKER": {
+            "name": "AllNewBet",
+            "langs": [ "zh-cn", "en" ],
+            "guid": {
+                "uat": "9ad061d0-d343-4d84-98e3-6e9d68b80cf6",
+                "live": "e3732aea-f225-4f51-b315-ec0c5e9a37d9"
+            },
+            "isLive": true
+        },
+        "ALLWINCITY": {
+            "name": "AWC Poker",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "bbc06932-3442-49bd-8f24-6849def28050",
+                "live": "93b064d6-d218-49ac-b1fe-b466b6636e66"
+            },
+            "isLive": true
+        },
+        "ARAPOKER": {
+            "name": "ARAPOKER",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "2649eac4-1a97-4ef3-9213-8eaae3fcce71",
+                "live": "116f9e0d-3f40-4f79-aea8-c8eeb10e91d9"
+            },
+            "isLive": true
+        },
+        "BESTPOKER": {
+            "name": "BestPoker",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "2be66350-ec26-4b33-a978-f2b2abd02ecf",
+                "live": "911e9e46-5b84-44b3-baf4-3c4a492266c6"
+            },
+            "isLive": true
+        },
+        "BESTPOKERSE": {
+            "name": "BestpokerSE",
+            "langs": [ "sv", "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "et", "lv" ],
+            "guid": {
+                "uat": "958d2235-31ac-4366-9ffe-3a4b0f454189",
+                "live": "262af07e-8fc2-413b-97dd-23f4816d89d8"
+            },
+            "isLive": true
+        },
+        "CEWT": {
+            "name": "CEWT",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "9303f204-e216-4f2a-88c3-5c2300b94a45",
+                "live": "c1a66323-87f8-405e-92a1-c9c6b1b68674"
+            },
+            "isLive": true
+        },
+        "CEWT201": {
+            "name": "CEWT201",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "4398b07f-8157-47b4-88fa-8d4cd9df782d",
+                "live": "6b96e1e8-25e8-4d9f-abfc-9221ed28e77e"
+            },
+            "isLive": true
+        },
+        "CNYDEMO": {
+            "name": "CNYDEMO",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "4c84df24-8534-4505-a0fd-08a5a3b87f5e",
+                "live": "14a2cf09-2c3c-4969-b92b-ea5d62d91129"
+            },
+            "isLive": false
+        },
+        "CSWT": {
+            "name": "CSWT",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "1d182eaf-7822-4a2a-9264-10d8c6cc1066",
+                "live": "021a7238-fd7c-4a1c-b1de-a12e61172105"
+            },
+            "isLive": true
+        },
+        "DZTEST": {
+            "name": "DZTEST",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "0367ea54-0e82-42b6-a609-24dbe4d8634c",
+                "live": "4417995b-980b-4e78-808c-79d84a7b7e8c"
+            },
+            "isLive": false
+        },
+        "EURDEMO": {
+            "name": "EURDEMO",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "822c58dd-4ba1-4c31-8705-46aa5ae66153",
+                "live": "6617578b-5ed6-42b4-8379-3eba034d6990"
+            },
+            "isLive": false
+        },
+        "EWT": {
+            "name": "EWT",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "78ac7a7e-5f6a-4800-8122-3a8ebd49a498",
+                "live": "41a4ac9f-256d-47aa-941f-eaaf3071f2d0"
+            },
+            "isLive": true
+        },
+        "FOBLTALK": {
+            "name": "FOBLTALK",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "ea5a58b5-7860-4c75-8c23-a9f1bfcce9ac",
+                "live": "a63b845f-1536-4910-8f4e-a19997f8b3bb"
+            },
+            "isLive": true
+        },
+        "GGPOKER": {
+            "name": "GGPoker UK",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "ade4e709-983f-45ed-a166-b688c81b8de2",
+                "live": "4e87656f-128a-4a1b-ba47-cb08397eb5b3"
+            },
+            "isLive": true
+        },
+        "GGPCOM": {
+            "name": "GGPoker",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "2fb0da18-32a2-49b9-8edd-5ee214351185",
+                "live": "7e88af25-466f-481a-abe3-70a9ac822da0"
+            },
+            "isLive": true
+        },
+        "GGPCOMDEV": {
+            "name": "GGPCOMDEV",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "35508952-8857-4fe9-83c2-ec65fd00aa60",
+                "live": "2885095d-db84-48d3-94be-be87de23f820"
+            },
+            "isLive": true
+        },
+        "GGPUKE": {
+            "name": "GG扑克",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "044b4355-a7a7-479b-8b94-843921154e80",
+                "live": "ec942b93-6dbf-4a34-844d-f8bffe1101c7"
+            },
+            "isLive": true
+        },
+        "GGPUKEDEV": {
+            "name": "GGPUKEDEV",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "8993c12b-0f38-4e61-88ef-39e0b1c388bb",
+                "live": "68742422-f7dd-4177-88c7-2a1aa5f00a77"
+            },
+            "isLive": false
+        },
+        "GGPOKERDEV": {
+            "name": "GGPOKERDEV",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "3525c860-896e-46c2-af9b-401e2dfe4b7e",
+                "live": "4afeb2af-d371-447d-b657-77a1bd9c8d1e"
+            },
+            "isLive": false
+        },
+        "GGPOKERSITE": {
+            "name": "GGPoker",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "b18c9419-2fac-413f-a5a4-5c73a5f42a10",
+                "live": "3111ab31-19c6-4876-816d-8376d353b174"
+            },
+            "isLive": true
+        },
+        "HAHAPOKER": {
+            "name": "HaHapoker",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "45a02cb2-886b-43a9-bf9d-67617b3ed582",
+                "live": "a0a64870-ba56-43e2-9bb8-c376eb8d5a40"
+            },
+            "isLive": true
+        },
+        "K8VINA": {
+            "name": "K8Vina",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "0e6fff7d-07d1-4001-8c82-194c33c77b1d",
+                "live": "d9cf455f-9be5-4200-a793-55080eec9aef"
+            },
+            "isLive": true
+        },
+        "LABA360": {
+            "name": "LaBa360",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "36315520-03f9-483c-be16-ed8246a1bde5",
+                "live": "51935f6a-55da-42ef-b0c6-f1f19aa7ffa5"
+            },
+            "isLive": true
+        },
+        "LATINAPOKER": {
+            "name": "Latina Poker",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "5f9ae025-0603-4e3c-afef-616efbd886d6",
+                "live": "1529ff4f-5769-4971-b564-7c828a2a2927"
+            },
+            "isLive": true
+        },
+        "LATINAPOKERDEV": {
+            "name": "LATINAPOKERDEV",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "d7b90280-8097-4b1c-a947-f52848b4a6e9",
+                "live": "4391a040-61e3-464f-a8a0-d480aa9c7ebd"
+            },
+            "isLive": false
+        },
+        "MBP": {
+            "name": "亿濠扑克",
+            "langs": [ "zh-cn", "en" ],
+            "guid": {
+                "uat": "27530744-dd52-4ced-bc9a-4dfcbfacb36f",
+                "live": "bc5fc220-7374-4d85-805e-be611916b27b"
+            },
+            "isLive": true
+        },
+        "MBPDEV": {
+            "name": "MBPDEV",
+            "langs": [ "zh-cn" ],
+            "guid": {
+                "uat": "edba5666-3635-419e-971d-136e35d36e89",
+                "live": "a915ce8e-b4d3-491a-99f1-d5a5b5827d23"
+            },
+            "isLive": false
+        },
+        "MGATEST": {
+            "name": "MGATEST",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "b1075f49-df91-478f-9b99-01b1bae20fa4",
+                "live": "ce7cc03e-a0f8-4829-b6fe-3b4dd431dd4b"
+            },
+            "isLive": true
+        },
+        "NATURAL8": {
+            "name": "Natural8",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "449a7e31-324e-4bf4-afd8-aff14fd94036",
+                "live": "7f185718-42f9-4c67-9247-f5bdfdf272e5"
+            },
+            "isLive": true
+        },
+        "NATURAL8DEV": {
+            "name": "NATURAL8DEV",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "fed0e7a5-f6ce-4c26-bf0d-729d1aba3cf3",
+                "live": "cc0a2d13-2284-4863-931a-2832429a009e"
+            },
+            "isLive": false
+        },
+        "OPTIBETCOM": {
+            "name": "Optibet.com",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "52ea52f3-abd4-4b01-8af8-d1d4b4cae041",
+                "live": "4a3e51e0-3095-4b0d-83a9-f968a6495286"
+            },
+            "isLive": true
+        },
+        "OPTIBETEE": {
+            "name": "Optibet.ee",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "28508f94-9bfe-407d-a943-5baecd8db65c",
+                "live": "7e2fe1ae-8b93-4f14-9d82-b2ec3f95dc7c"
+            },
+            "isLive": true
+        },
+        "OPTIBETLV": {
+            "name": "Optibet.lv",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "c87bb3e3-722e-4e8f-a92e-8158ee2d43dd",
+                "live": "ea3d5865-0915-4c61-9669-f3b04698b79b"
+            },
+            "isLive": true
+        },
+        "OPTIBETSE": {
+            "name": "Optibet.se",
+            "langs": [ "sv", "et", "lv", "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th" ],
+            "guid": {
+                "uat": "64e80c63-582f-46ef-9c89-b8c77392c1ef",
+                "live": "7d3d7546-c222-4c92-8560-9b5dd9e7ec44"
+            },
+            "isLive": true
+        },
+        "POKEROK": {
+            "name": "GGПокерОК",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "392f4e05-9cc1-41b6-80a6-32063e46d379",
+                "live": "26dc0621-0f97-47ec-a69a-5a0bbb94552d"
+            },
+            "isLive": true
+        },
+        "POKEROKDEV": {
+            "name": "POKEROKDEV",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "b90d45c2-aef3-44de-96cd-db763ed724e1",
+                "live": "aca2fd5a-d4d3-47ae-aaec-b41e020d90a5"
+            },
+            "isLive": false
+        },
+        "SEKDEMO": {
+            "name": "SEKDEMO",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "6656ba7e-374e-41a3-bdcf-f1f22a9c620a",
+                "live": "c8869e13-fead-40bd-8061-7bdbfbf43df1"
+            },
+            "isLive": true
+        },
+        "SUNPOKER": {
+            "name": "太阳扑克",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "1671d549-15dd-4b93-905a-c3c6a489ad59",
+                "live": "be7d7617-7ddb-4e40-bf3c-f171022db28c"
+            },
+            "isLive": true
+        },
+        "SWT": {
+            "name": "SWT",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "4257160c-073a-4961-92cf-6919e938e795",
+                "live": "ffab84a5-e279-4c26-80be-b614dc61086d"
+            },
+            "isLive": true
+        },
+        "TOTOGAMING": {
+            "name": "TotoGaming",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "baa5b18b-181c-456a-bed3-daf2c55535c6",
+                "live": "45407189-f800-4e9d-8f7e-91aecee1ca9c"
+            },
+            "isLive": true
+        },
+        "TESTDENMARK": {
+            "name": "TestDenmark",
+            "langs": [ "da", "ru", "id", "de", "es", "fr", "en", "pt", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "59498ea9-8131-4231-878d-74de2c696866",
+                "live": "f67c0a17-2dc5-4884-bb6d-d23dab5a2272"
+            },
+            "isLive": true
+        },
+        "TIANLONG": {
+            "name": "Tianlong",
+            "langs": [ "zh-cn", "en" ],
+            "guid": {
+                "uat": "db983246-e7d1-4282-a5b7-e601fa07117b",
+                "live": "3df771b7-77a6-46bc-807a-10408a355275"
+            },
+            "isLive": true
+        },
+        "W88": {
+            "name": "W88",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "eb8c24b6-82cd-4c3d-ba0b-86131a3e2698",
+                "live": "44b9fa80-005a-4429-ab37-dcdbf06c5dbc"
+            },
+            "isLive": true
+        },
+        "XEWT": {
+            "name": "XEWT",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "de92eb89-7d48-463f-9e49-24dbb562b147",
+                "live": "040fbd7c-79df-4dc8-b9c1-1b98e34bfa1e"
+            },
+            "isLive": true
+        },
+        "XEWT201": {
+            "name": "XEWT201",
+            "langs": [ "en", "id", "de", "es", "fr", "pt", "ru", "vi", "tr", "zh-cn", "ja", "th", "sv", "et", "lv" ],
+            "guid": {
+                "uat": "7dd25274-3af1-4b89-ad91-98d9f8ebced6",
+                "live": "17140d9b-1cd5-4363-b0b1-ec159b42533a"
+            },
+            "isLive": true
+        }
+    }
+}

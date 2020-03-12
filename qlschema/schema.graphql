@@ -1,0 +1,31 @@
+scalar Date
+type Todo {
+  _id: ID!
+  title: String
+  contensts: String
+  createdAt: String
+  updatedAt: String
+}
+type Label {
+  _id: ID!
+  title: String
+  desc: String
+  color: String
+  todos: [Todo]!
+  createdAt: Date!
+  updatedAt: Date!
+}
+type TestInfo {
+  name: String
+  id: String
+  desc: String
+}
+type Query {
+    labels(user: String): [Label]
+    test: TestInfo
+}
+
+type Mutation {
+    createUser(msg: String): String
+    createLabel(title: String, color: String, desc: String): Boolean
+}
